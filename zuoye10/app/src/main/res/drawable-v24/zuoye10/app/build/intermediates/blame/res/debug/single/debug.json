@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_item_toolbar4.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\item_toolbar4.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_point_c.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\icon_point_c.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_third.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\fragment_tab_third.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banner3.jpg.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\banner3.jpg"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_toolbar1.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\item_toolbar1.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_home.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tab_fragment.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_tab_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_indicator.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\banner_indicator.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_search.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_app.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_app.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_book_cover.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\book_cover.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_bg_shape_selected.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_bg_shape_selected.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_back.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_back.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_first.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\fragment_tab_first.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_refresh.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_image_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\toolbar_image_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_point_n.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\icon_point_n.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_banner_pager.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_banner_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_second_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_second_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_second.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\fragment_tab_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banner2.jpg.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\banner2.jpg"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_item_toolbar3.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\item_toolbar3.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_toolbar2.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\item_toolbar2.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_first_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_first_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_toolbar_text_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\toolbar_text_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tabbar.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\item_tabbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_indicator_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\indicator_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_quit.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_pager.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\banner_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_bg_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banner5.jpg.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\banner5.jpg"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_result_actvity.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_search_result_actvity.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_null_point.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\null_point.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_toolbar_image_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\toolbar_image_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_text_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\toolbar_text_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_point.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\red_point.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tab_layout.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_view.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_book_detail.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\book_detail.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book_cover.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\book_cover.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_item_toolbar2.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\item_toolbar2.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_third_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_third_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_second_normal.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_second_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banner1.jpg.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\banner1.jpg"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_first_pressed.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_first_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_first_normal.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_first_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_list_auto.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\search_list_auto.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banner4.jpg.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\banner4.jpg"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_bg_shape_normal.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_bg_shape_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_null_point.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\null_point.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_text_selector.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_text_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_second_pressed.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_second_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_third_pressed.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_third_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_null.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\menu\\menu_null.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_item_toolbar1.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\item_toolbar1.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_third_normal.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\tab_third_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_about.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_about.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book_detail.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable\\book_detail.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_overflow.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\menu\\menu_overflow.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_red_point.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\red_point.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_detail.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\fragment_book_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_search.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\drawable-v24\\ic_search.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AndroidFile\\zuoye10\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_cover.xml.flat",
+        "source": "F:\\AndroidFile\\zuoye10\\app\\src\\main\\res\\layout\\fragment_book_cover.xml"
+    }
+]
